@@ -1,6 +1,6 @@
 {
-  "name": "xlsxIssueReplication",
-  "version": "2.0.7",
+  "name": "xlsx_issue_replication",
+  "version": "1.0.0",
   "description": "",
   "private": true,
   "main": "src/index.js",
